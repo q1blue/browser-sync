@@ -12,7 +12,7 @@
 	},
 	"dependencies": {
 		"crossbow": "^4.6.0",
-		"cypress": "^9.5.1",
+		"cypress": "^13.6.3",
 		"rxjs": "^7.5.4"
 	},
   "nx": {}
